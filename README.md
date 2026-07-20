@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Abu Sayeb Rayhan 👋
 
-<!--
-**abusayeb/abusayeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer — Computer Vision & Large Language Models**
 
-Here are some ideas to get you started:
+I build production-oriented AI systems: retrieval-augmented chatbots, real-time object detection pipelines, and automated video analytics. Based in Comilla, Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured work
+
+- **[RAG Chatbot](https://github.com/abusayeb/RAG-based-chatbot)** — end-to-end retrieval-augmented chatbot with LangChain, Pinecone vector search, and Flask, deployed on Microsoft Azure
+- **[ADAS Lane & Vehicle Detection](https://github.com/abusayeb/Lane-Vehicle-detection-for-ADAS)** — real-time lane and vehicle detection for advanced driver-assistance systems using YOLOv5
+- **[Basketball Highlight Generator](https://github.com/abusayeb/Basketball-Highlights-Generation)** — automatic highlight compilation from raw game footage: YOLOv8 detection, DeepSORT tracking, event detection, auto-zoom and slow motion
+
+## 🛠️ Tech stack
+
+**AI/ML:** PyTorch · YOLOv5/v8 · OpenCV · LangChain · RAG · Hugging Face  
+**Data:** Pandas · NumPy · data analysis & visualization  
+**Backend & deployment:** Python · Flask · Microsoft Azure · Pinecone  
+**Mobile:** Flutter / Dart
+
+## 📫 Reach me
+
+- Email: sayeb.yt@gmail.com
+- GitHub: [@abusayeb](https://github.com/abusayeb)
