@@ -7,8 +7,8 @@ I build production-oriented AI systems: retrieval-augmented chatbots, real-time 
 ## 🔭 Featured work
 
 - **[RAG Chatbot](https://github.com/abusayeb/RAG-based-chatbot)** — end-to-end retrieval-augmented chatbot with LangChain, Pinecone vector search, and Flask, deployed on Microsoft Azure
-- **[ADAS Lane & Vehicle Detection](https://github.com/abusayeb/Lane-Vehicle-detection-for-ADAS)** — real-time lane and vehicle detection for advanced driver-assistance systems using YOLOv5
-- **[Basketball Highlight Generator](https://github.com/abusayeb/Basketball-Highlights-Generation)** — automatic highlight compilation from raw game footage: YOLOv8 detection, DeepSORT tracking, event detection, auto-zoom and slow motion
+- **[ADAS Lane & Vehicle Detection](https://github.com/abusayeb/Lane-Vehicle-detection-for-ADAS)** — real-time lane and vehicle detection for advanced driver-assistance systems using YOLO
+- **[Basketball Highlight Generator](https://github.com/abusayeb/Basketball-Highlights-Generation)** — automatic highlight compilation from raw game footage: Object detection, Action Detection, DeepSORT tracking, event detection, auto-zoom and slow motion
 
 ## 🛠️ Tech stack
 
