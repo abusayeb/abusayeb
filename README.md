@@ -12,12 +12,12 @@ I build production-oriented AI systems: retrieval-augmented chatbots, real-time 
 
 ## 🛠️ Tech stack
 
-**AI/ML:** PyTorch · YOLOv5/v8 · OpenCV · LangChain · RAG · Hugging Face  
+**AI/ML:** PyTorch · YOLO · OpenCV · LangChain · RAG · Hugging Face  
 **Data:** Pandas · NumPy · data analysis & visualization  
 **Backend & deployment:** Python · Flask · Microsoft Azure · Pinecone  
 **Mobile:** Flutter / Dart
 
 ## 📫 Reach me
 
-- Email: sayeb.yt@gmail.com
+- Email: sayeb.cc.75@gmail.com
 - GitHub: [@abusayeb](https://github.com/abusayeb)
