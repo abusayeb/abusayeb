@@ -20,4 +20,4 @@ I build production-oriented AI systems: retrieval-augmented chatbots, real-time 
 ## 📫 Reach me
 
 - Email: sayeb.cc.75@gmail.com
-- LinkedIn: [@Md Abu Sayeb Rayhan]([https://github.com/abusayeb](https://www.linkedin.com/in/md-abu-sayeb-rayhan/))
+- LinkedIn: [Md Abu Sayeb Rayhan]([https://github.com/abusayeb](https://www.linkedin.com/in/md-abu-sayeb-rayhan/)
