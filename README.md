@@ -1,15 +1,15 @@
 # Hi, I'm Md Abu Sayeb Rayhan 👋
 
-**Computer Vision Engineer** — real-time perception, multi-object tracking, LLM/RAG systems
+**AI Engineer** — real-time perception, multi-object tracking, LLM/RAG systems
 📍 Dhaka, Bangladesh
 
-I build vision systems that run in production. For eighteen months at **Othello Financial Services** (Japan) I took real-time video analytics from prototype to Azure deployment — multi-object tracking, pose estimation and activity recognition on live feeds — cutting inference latency by **~70%** and production cost by **50%**.
+I build AI systems that run in production. For eighteen months at **Othello Financial Services** (Japan) I took real-time video analytics from prototype to Azure deployment — multi-object tracking, pose estimation and activity recognition on live feeds — cutting inference latency by **~70%** and production cost by **50%**.
 
 Four conference papers in computer vision: **2 published** (IEEE Xplore, Scopus-indexed), **1 in press** (Springer Nature), **1 under review**. **Best Presenter Award**, IEEE QPAIN 2026.
 
 🌐 [Portfolio](https://abusayeb.github.io) · 🔬 [Research](https://abusayeb.github.io/research) · 📄 [CV](https://abusayeb.github.io/abu_sayeb_rayhan_AI.pdf)
 
-**Currently:** seeking research-based Master's positions in robotics / embedded AI (2026-27 intake), and open to computer vision engineering roles.
+**Currently:** seeking research-based Master's positions in robotics / embedded AI (2026-27 intake), and open to AI engineering roles.
 
 ---
 
