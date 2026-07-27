@@ -52,10 +52,10 @@ Open questions I want to work on are written up on my [research page](https://ab
 
 ## 🔭 Featured projects
 
-- **[ADAS Lane & Vehicle Detection](https://github.com/abusayeb/adas-lane-vehicle-detection)** — real-time lane boundary and vehicle detection for driver-assistance systems (YOLOv5 + classical CV)
-- **[Basketball Highlight Generator](https://github.com/abusayeb/basketball-highlight-generator)** — automatic highlight extraction from raw footage (YOLOv8, DeepSORT, event detection)
 - **[RAG Chatbot](https://github.com/abusayeb/rag-chatbot)** — end-to-end retrieval-augmented chatbot with LangChain, Pinecone and Flask, deployed on Azure
-- **[Context Searcher](https://github.com/abusayeb/keyword-file-searcher)** — multilingual (Bangla/English) semantic document search combining OCR with dense embeddings
+- - **[Context Searcher](https://github.com/abusayeb/keyword-file-searcher)** — multilingual (Bangla/English) semantic document search combining OCR with dense embeddings
+- **[Basketball Highlight Generator](https://github.com/abusayeb/basketball-highlight-generator)** — automatic highlight extraction from raw footage (YOLOv8, DeepSORT, event detection)
+- **[ADAS Lane & Vehicle Detection](https://github.com/abusayeb/adas-lane-vehicle-detection)** — real-time lane boundary and vehicle detection for driver-assistance systems (YOLOv5 + classical CV)
 
 ---
 
